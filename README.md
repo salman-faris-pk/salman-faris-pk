@@ -13,8 +13,6 @@
 
 - 📫 Reach me on **salmanulfarispk2001@gmail.com**
 
-- ⚡ Fun fact **programmers turn coffee into code and bugs into features.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/salmanul-faris-pk-719b35295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salmanul-faris-pk-719b35295/" height="30" width="40" /></a>
