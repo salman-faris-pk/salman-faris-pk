@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Salmanul faris pk</h1>
-<h3 align="center">A passionate mern stack developer from kerala</h3>
 
 - 🔭 I’m currently looking **for a Good opportunity**
 
