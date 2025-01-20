@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently looking **for a Good opportunity**
 
-- 🌱 I’m currently learning **Nestjs,Graphql**
-
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 Take a look on my Portfolio [https://salmanulfaris-pk.netlify.app/](https://salmanulfaris-pk.netlify.app/)
