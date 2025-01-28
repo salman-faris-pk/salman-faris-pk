@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 Take a look on my Portfolio [https://salmanulfaris-pk.netlify.app/](https://salmanulfaris-pk.netlify.app/)
+- 👨‍💻 Take a look on my Portfolio [https://salmanul-faris-pk.vercel.app/](https://salmanul-faris-pk.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Node, Express, MongoDB, Tailwind**
 
